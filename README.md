@@ -7,7 +7,7 @@ To get started with Notcoin, follow these steps:
 
 - Clone the repository:
 ```
-git clone https://github.com/yourusername/notcoin.git
+git clone https://github.com/CodesByUmar/Notcoin.git
 ```
 
 - Navigate to the project directory:
